@@ -1,5 +1,5 @@
 # Kseniya Spesiutsava
-![Kseniya Spesiutsava]([https://web.telegram.org/a00e1906-9312-404c-a144-10dce794d0ce](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8owjxTBR-EB0moOEEhCuGB0Gq_zNFFVB3Qpa4SxUrl-2SPvI7Y_4ZH0rF7bIBY1nXHM&usqp=CAU))
+![Kseniya Spesiutsava](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo8owjxTBR-EB0moOEEhCuGB0Gq_zNFFVB3Qpa4SxUrl-2SPvI7Y_4ZH0rF7bIBY1nXHM&usqp=CAU)
 
 ## Contacts
 
