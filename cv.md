@@ -1,5 +1,5 @@
 # Kseniya Spesiutsava
-![Kseniya Spesiutsava](/Users/Kseniya_Spesiutsava/Desktop/PhotoCV.png)
+![Kseniya Spesiutsava](https://i.pinimg.com/564x/65/9f/5a/659f5a018e48f4f91af85f216bac1a22.jpg)
 
 ## Contacts
 
