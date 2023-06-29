@@ -1,5 +1,5 @@
 # Kseniya Spesiutsava
-![Kseniya Spesiutsava](/Users/Kseniya_Spesiutsava/Desktop/PhotoCV.png)
+![Kseniya Spesiutsava](blob:https://web.telegram.org/a00e1906-9312-404c-a144-10dce794d0ce)
 
 ## Contacts
 
