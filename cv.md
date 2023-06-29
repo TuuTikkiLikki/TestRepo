@@ -1,5 +1,5 @@
 # Kseniya Spesiutsava
-![Kseniya Spesiutsava](/Users/Kseniya_Spesiutsava/Desktop/PhotoCV.png "Kseniya")
+![Kseniya Spesiutsava](file:///Users/Kseniya_Spesiutsava/Desktop/PhotoCV.png)
 
 ## Contacts
 
