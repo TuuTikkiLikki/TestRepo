@@ -1,5 +1,10 @@
 # Kseniya Spesiutsava
-![Kseniya Spesiutsava](https://i.pinimg.com/564x/4e/60/7c/4e607c63b9267b2b74653b0d8322571b.jpg))
+
+  Имя    | Возраст 
+-----------|:-------: 
+![Kseniya Spesiutsava](https://i.pinimg.com/564x/4e/60/7c/4e607c63b9267b2b74653b0d8322571b.jpg)       |   ## Contacts
+ | * Location: Minsk, Belarus
+
 
 ## Contacts
 
