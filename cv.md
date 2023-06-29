@@ -1,7 +1,7 @@
 # Kseniya Spesiutsava
 
 
-![Kseniya Spesiutsava|100](https://i.pinimg.com/564x/4e/60/7c/4e607c63b9267b2b74653b0d8322571b.jpg)
+![Kseniya Spesiutsava|50](https://i.pinimg.com/564x/4e/60/7c/4e607c63b9267b2b74653b0d8322571b.jpg)
 
 
 ## Contacts
