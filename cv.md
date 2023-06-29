@@ -44,7 +44,7 @@ Belarusian State University:
 * Master’s degree, Mathematics (2016-2017)
 
 ## Certifications
-* [Certified SAFe®5 Agilist] (https://www.credly.com/badges/991b2c97-4f63-4377-89cc-a3dae14c0d24/public_url)
+* [Certified SAFe®5 Agilist](https://www.credly.com/badges/991b2c97-4f63-4377-89cc-a3dae14c0d24/public_url)
 * [Professional Scrum Master I (PSM I)](https://www.credly.com/badges/07b44313-50be-40cf-8568-a8a35ed558df/public_url)
 
 ## Languages
