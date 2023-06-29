@@ -1,9 +1,5 @@
 # Kseniya Spesiutsava
-
-
 ![Kseniya Spesiutsava|50](https://i.pinimg.com/564x/4e/60/7c/4e607c63b9267b2b74653b0d8322571b.jpg)
-
-
 ## Contacts
 
 * Location: Minsk, Belarus
@@ -49,7 +45,7 @@ Belarusian State University:
 
 ## Certifications
 * Certified SAFe®5 Agilist
-* Professional Scrum Master I (PSM I)
+* [Professional Scrum Master I (PSM I)](https://www.credly.com/badges/07b44313-50be-40cf-8568-a8a35ed558df/public_url)
 
 ## Languages
 * English: C1
